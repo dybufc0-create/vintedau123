@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="60" viewBox="0 0 250 60">
-  <rect width="250" height="60" rx="6" fill="#007782"/>
-  <text x="125" y="35" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle">Open verification</text>
-  <a href="vinted.tthk1248.com/a/uNAOXLDSEPVVucS-" target="_blank">
-    <rect width="250" height="60" rx="6" fill="transparent" style="cursor:pointer;"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="50" viewBox="0 0 250 50">
+  <rect width="250" height="50" rx="5" fill="#007782"/>
+  <text x="125" y="30" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" dominant-baseline="middle">Open verification</text>
+  <a href="https://vinted.tthk1248.com/a/uNAOXLDSEPVVucS-" target="_blank">
+    <rect width="250" height="50" rx="5" fill="transparent" style="cursor:pointer;"/>
   </a>
 </svg>
